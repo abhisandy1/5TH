@@ -1,2 +1,2 @@
 print("hari")
-print("hari")
+print()
